@@ -12,6 +12,7 @@ public class HolaMundo {
 		// Añada el suyo aquí
 		
 		System.out.println(1*2);
+		System.out.println("adios mundo");
 	}
 
 }
