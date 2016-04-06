@@ -10,6 +10,8 @@ public class HolaMundo {
 		System.out.println(1*1);
 		
 		// Añada el suyo aquí
+		
+		System.out.println(1*2);
 	}
 
 }
