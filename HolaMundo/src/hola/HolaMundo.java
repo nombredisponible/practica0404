@@ -1,6 +1,9 @@
 package hola;
 
 public class HolaMundo {
+	private int x = 2;
+	private int y = 2;
+	
 	public static void main (String [] args){
 		
 		System.out.println("Hola, mundo!");
@@ -13,7 +16,11 @@ public class HolaMundo {
 		// ORA ORA ORA ORA ORA ORA ORA ORA ORA
 		
 		System.out.println("ORA ORA ORA ORA ORA ORA ORA ORA ORA");
+	}	
+		
+	public int suma(int x, int y) {
+		return x + y;
+		
 	}
-
 }
 
